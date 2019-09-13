@@ -9,4 +9,4 @@ In the Servo assignment I made a servo spin a certain direction by pushing on wi
 
 I the Photo Interrupter assignment I printed how many times my photo interrupter had been interrupted. I also made it so it counted every four second and restarted after 4 seconds. It printed the interrupts per 4 seconds into the serial monitor
 
-...
+
