@@ -1,5 +1,4 @@
 # CircuitPython
-My CircuitPython assignments
 
 In Fade Led I made an LED blink and fade in and out using the metro board
 
@@ -9,4 +8,4 @@ In the Servo assignment I made a servo spin a certain direction by pushing on wi
 
 I the Photo Interrupter assignment I printed how many times my photo interrupter had been interrupted. I also made it so it counted every four second and restarted after 4 seconds. It printed the interrupts per 4 seconds into the serial monitor
 
-
+In the Distance Sensor assignment I made the led on the metro board change colors using a distn=ance sensor. I made it so the led was red at 5 cm but slowly turned into pink as the distance increased. This pink then slowly turned into blue at 20cm. This blue then turned to light blue and then to green at 35cm. It also printed the distance in the serial monitor.
