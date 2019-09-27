@@ -9,3 +9,5 @@ In the Servo assignment I made a servo spin a certain direction by pushing on wi
 I the Photo Interrupter assignment I printed how many times my photo interrupter had been interrupted. I also made it so it counted every four second and restarted after 4 seconds. It printed the interrupts per 4 seconds into the serial monitor
 
 In the Distance Sensor assignment I made the led on the metro board change colors using a distn=ance sensor. I made it so the led was red at 5 cm but slowly turned into pink as the distance increased. This pink then slowly turned into blue at 20cm. This blue then turned to light blue and then to green at 35cm. It also printed the distance in the serial monitor.
+
+In the Classes. Objects, and Modules assignment I used a class to make an led change colors by just putting the color in the code. I also made it go through the colors of the rainbiw at two different speeds just using the word rainbow. I did this by adding these codes to the class and then just calling on it to make it run the code.
