@@ -12,6 +12,6 @@ In the Distance Sensor assignment I made the led on the metro board change color
 
 In the Classes. Objects, and Modules assignment I used a class to make an led change colors by just putting the color in the code. I also made it go through the colors of the rainbiw at two different speeds just using the word rainbow. I did this by adding these codes to the class and then just calling on it to make it run the code.
 
-In the hello_vs_code assignment I learned to use VS and how to add andcommit through VS instead of git bash.
+In the hello_vs_code assignment I learned to use VS and how to add and commit through VS instead of git bash.
 
 In the fancyLed assignment I had to use two sets of 3 leds. The first set alternated and then did a chase. The second set blinked and then sparkled. For the sparkle i used random to make it som random lights would turn on. I then made it so my chase went through all leds instead of just the first 3. 
