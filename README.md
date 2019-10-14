@@ -15,3 +15,5 @@ In the Classes. Objects, and Modules assignment I used a class to make an led ch
 In the hello_vs_code assignment I learned to use VS and how to add and commit through VS instead of git bash.
 
 In the fancyLed assignment I had to use two sets of 3 leds. The first set alternated and then did a chase. The second set blinked and then sparkled. For the sparkle i used random to make it som random lights would turn on. I then made it so my chase went through all leds instead of just the first 3. 
+
+In the Forks and Clones assignment I learned how to make a forked verion of a file, make edits to it, and then push it back into the original. I added my informatiopn to our class page and then pushed it to the original.
