@@ -28,7 +28,7 @@ I the Photo Interrupter assignment I printed how many times my photo interrupter
 ###### Description
 In the Distance Sensor assignment I made the led on the metro board change colors using a distn=ance sensor. I made it so the led was red at 5 cm but slowly turned into pink as the distance increased. This pink then slowly turned into blue at 20cm. This blue then turned to light blue and then to green at 35cm. It also printed the distance in the serial monitor.
 ###### Picture/Diagram
-![Distance Sensor Picture](DistanceSesnor.png)
+![Distance Sensor Picture](DistanceSensor.png)
 ###### Problems and Lessons Learned
 
 ## Classes, Objects, and Modules
