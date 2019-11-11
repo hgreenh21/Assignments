@@ -58,7 +58,7 @@ In the hello_vs_code assignment I learned to use VS and how to add and commit th
 ###### Description
 In the fancyLed assignment I had to use two sets of 3 leds. The first set alternated and then did a chase. The second set blinked and then sparkled. For the sparkle I used random to make it som random lights would turn on. I then made it so my chase went through all leds instead of just the first 3. 
 ###### Picture/Diagram
-![alt text](https://github.com/hgreenh21/Assignments/blob/master/CircuitPython/Pictures/FancyLED.PNG)
+![alt text](https://github.com/hgreenh21/Assignments/blob/master/CircuitPython/Pictures/FancyLed.PNG)
 Picture credit goes to Graham Lenert @glenert41
 ###### Problems and Lessons Learned
 
