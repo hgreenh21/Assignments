@@ -29,7 +29,7 @@ I the Photo Interrupter assignment I printed how many times my photo interrupter
 In the Distance Sensor assignment I made the led on the metro board change colors using a distn=ance sensor. I made it so the led was red at 5 cm but slowly turned into pink as the distance increased. This pink then slowly turned into blue at 20cm. This blue then turned to light blue and then to green at 35cm. It also printed the distance in the serial monitor.
 ###### Picture/Diagram
 ![alt text](https://github.com/hgreenh21/Assignments/blob/master/CircuitPython/Pictures/DistanceSensor.png.PNG)
-Picture credit goes to @glenert41
+Picture credit goes to Graham Lenert @glenert41
 ###### Problems and Lessons Learned
 
 ## Classes, Objects, and Modules
