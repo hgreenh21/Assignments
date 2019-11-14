@@ -4,8 +4,7 @@
 ###### Description
 In Fade Led I made an LED blink and fade in and out using the metro board
 ###### Picture/Diagram
-![alt text](https://github.com/hgreenh21/Assignments/blob/master/CircuitPython/Pictures/LEDFade.PNG)
-
+<img src="LEDFade.PNG" width="392px"/>
 Picture credit goes to Graham Lenert @glenert41
 ###### Problems and Lessons Learned
 
