@@ -7,7 +7,7 @@
 * [Servo](#Servo)
 * [Photo Interrupter](#Photo-Interrupter)
 * [Distance Sensor](#Distance-Sensor)
-* [Classes, Objects, and Modules](#Classes,-Objects,-and-Modules)
+* [Classes, Objects, and Modules](#Classes-Objects-and-Modules)
 * [Hello vs Code](#Hello-VSCode)
 * [Fancy LED](#Fancy-LED)
 
@@ -61,7 +61,7 @@ Picture credit goes to Graham Lenert @glenert41
 ### Problems and Lessons Learned
 I ran into a problem trying to find out how to make the colors change with distance. To do this I had to use a map range to make it so between two distance intervals, you gained or lost either r, g, and b. I had some trouble getting the colors to be in the right order just because I didn't really understancd it well, but after looking at pictures of rainbows I began to understand it more.
 
-## Classes, Objects, and Modules
+## Classes Objects and Modules
 ### Description
 In the Classes. Objects, and Modules assignment I used a class to make an led change colors by just putting the color in the code. I also made it go through the colors of the rainbiw at two different speeds just using the word rainbow. I did this by adding these codes to the class and then just calling on it to make it run the code.
 ### Picture/Diagram
