@@ -1,5 +1,16 @@
 # CircuitPython
 
+## Table of Contents
+* [Table of Contents](#Table-of-Contents)
+* [LED Fade](#LED-Fade)
+* [LCD](#LCD)
+* [Servo](#Servo)
+* [Photo Interrupter](#Photo-Interrupter)
+* [Distance Sensor](#Distance-Sensor)
+* [Classes, Objects, and Modules](#Classes,-Objects,-and-Modules)
+* [Hello vs Code](#Hello-VSCode)
+* [Fancy LED](#Fancy-LED)
+
 ## LED Fade
 ### Description
 In Fade Led I made an LED blink and fade in and out using the metro board
