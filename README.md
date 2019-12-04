@@ -35,7 +35,7 @@ My main problem in this assignment was getting the lcd to print a variable. Afte
 ### Description
 In the Servo assignment I made a servo spin a certain direction by pushing on wires. If i presssed one wired it went clockwise, and if I pressed the other wire it went counter clockwise. Each wire when touched made the servo spin 180% in a different direction
 ### Picture/Diagram
-<img src="CircuitPython/Pictures/SERVO.PNG" width="400px"/>
+<img src="CircuitPython/Pictures/Servo.PNG" width="400px"/>
 
 Picture credit goes to Graham Lenert @glenert41
 ### Problems and Lessons Learned
