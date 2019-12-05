@@ -25,7 +25,7 @@ My biggest problem during this assignment was using led.duty_cycle. I looked it 
 ### Description
 In the LCD assignment I used an LCD to count how many times I had presssed a button. I got it to say "Button Presses: __" This number went up by one every time I pressed the button
 ### Picture/Diagram
-<img src="CircuitPython/Pictures/LCD.PNG" width="400px"/>
+<img src="CircuitPython/Pictures/LCD.PNG" width="600px"/>
 
 [Picture credit goes to Graham Lenert](https://github.com/glenert41/CircuitPython)
 ### Problems and Lessons Learned
