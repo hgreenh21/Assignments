@@ -27,7 +27,7 @@ In the LCD assignment I used an LCD to count how many times I had presssed a but
 ### Picture/Diagram
 <img src="CircuitPython/Pictures/LCD.PNG" width="400px"/>
 
-Picture credit goes to Graham Lenert @glenert41
+[Picture credit goes to Graham Lenert](https://github.com/glenert41/CircuitPython)
 ### Problems and Lessons Learned
 My main problem in this assignment was getting the lcd to print a variable. After a lot of googling, i founf out how to do it using "button presses as a variable". In this assignment I learned how to use an lcd with circuitpython and I learned how to use a button as well.
 
@@ -37,7 +37,7 @@ In the Servo assignment I made a servo spin a certain direction by pushing on wi
 ### Picture/Diagram
 <img src="CircuitPython/Pictures/Servo.PNG" width="400px"/>
 
-Picture credit goes to Graham Lenert @glenert41
+[Picture credit goes to Graham Lenert](https://github.com/glenert41/CircuitPython)
 ### Problems and Lessons Learned
 i had a lot of trouble with activating the servo using touch in this assignment. I learned that You can use the A pins to use touch. I also larned how to code for a servo using circuitpython.
 
@@ -47,7 +47,7 @@ I the Photo Interrupter assignment I printed how many times my photo interrupter
 ### Picture/Diagram
 <img src="CircuitPython/Pictures/PhotoInt.PNG" width="400px"/>
 
-Picture credit goes to Graham Lenert @glenert41
+[Picture credit goes to Graham Lenert](https://github.com/glenert41/CircuitPython)
 ### Problems and Lessons Learned
 In this assignment I first ran into the problem that my code didn't just count once for each interrupt and it would count infinitley until it was uninterrupted. i was able to fix this by making it so it only counted if the last state was false meaning that it was not interrupted right before. After this I had to figure out the time problem. I had to do a lot of googling but eventually I found code that would help. This code made it so it counted the interrrupts until the time got to four seconds. When it got to this point I had a line that set the value back to zero.  
 
@@ -57,7 +57,7 @@ In the Distance Sensor assignment I made the led on the metro board change color
 ### Picture/Diagram
 <img src="CircuitPython/Pictures/DistanceSensor.png.PNG" width="400px"/>
 
-Picture credit goes to Graham Lenert @glenert41
+[Picture credit goes to Graham Lenert](https://github.com/glenert41/CircuitPython)
 ### Problems and Lessons Learned
 I ran into a problem trying to find out how to make the colors change with distance. To do this I had to use a map range to make it so between two distance intervals, you gained or lost either r, g, and b. I had some trouble getting the colors to be in the right order just because I didn't really understancd it well, but after looking at pictures of rainbows I began to understand it more.
 
@@ -67,7 +67,7 @@ In the Classes. Objects, and Modules assignment I used a class to make an led ch
 ### Picture/Diagram
 <img src="CircuitPython/Pictures/RGBLED.PNG" width="400px"/>
 
-Picture credit goes to Graham Lenert @glenert41
+[Picture credit goes to Graham Lenert](https://github.com/glenert41/CircuitPython)
 ### Problems and Lessons Learned
 My first problem I ran into was how to name everything in this assignment. With help from Mr.H i learned about using self to name all the variables. After this I ran into the problem that all my colors were wrong. I looked it up and it turned out that for rgb leds you just have to code them opposite. The main thing I learned in this assignment was how to make classes so i can use whole sections of code by just saying the name of the module or class.
 
@@ -84,6 +84,6 @@ In the fancyLed assignment I had to use two sets of 3 leds. The first set altern
 ### Picture/Diagram
 <img src="CircuitPython/Pictures/FancyLed.PNG" width="400px"/>
 
-Picture credit goes to Graham Lenert @glenert41
+[Picture credit goes to Graham Lenert](https://github.com/glenert41/CircuitPython)
 ### Problems and Lessons Learned
 in this assignment I knew how to make the classes and module because of what I learned in a previous assignment. the main problem I ran into was making the lights sparkle. To do this I made a random nuber generator basically. I made code that randomly picked a number and each number made it do a different set of code. Each set of code made different lights turn on. i learned in this assignment how to make code randomized.
