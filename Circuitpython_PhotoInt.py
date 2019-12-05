@@ -3,9 +3,9 @@ import board
 import time
 # ggfhfghgh
 max = 4
-start = time.monotonic()
+start = time.monotonic() # sets up a timeer
 
-photo = DigitalInOut(board.D2)
+photo = DigitalInOut(board.D2) # pin
 photo.direction = Direction.INPUT
 photo.pull = Pull.UP
 
@@ -19,8 +19,8 @@ while True:
 
     photo_state = photo.value
 
-    if photo_state and not last_state:
-        value = value + 1
+    if photo_state and not last_state: # IF PHOTO INTERRUPTER IS INTERRUPTED AND IT WASNT BEFORE 
+        value = value + 1 # add one
         # print("# of interrupts:")
         # print(value)
 
