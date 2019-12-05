@@ -17,7 +17,7 @@ In Fade Led I made an LED blink and fade in and out using the metro board
 ### Picture/Diagram
 <img src="CircuitPython/Pictures/LEDFade.PNG" width="400px"/>
 
-Picture credit goes to Graham Lenert @glenert41
+[Picture credit goes to Graham Lenert](https://github.com/glenert41/CircuitPython)
 ### Problems and Lessons Learned
 My biggest problem during this assignment was using led.duty_cycle. I looked it up to understand it more and because of that I know wnow what it means and how to use it
 
