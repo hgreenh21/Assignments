@@ -19,6 +19,7 @@ In Fade Led I made an LED blink and fade in and out using the metro board. I use
 
 ### Problems and Lessons Learned
 My biggest problem during this assignment was using led.duty_cycle. I looked it up to understand it more and because of that I know wnow what it means and how to use it.
+[This is a good site for PWM](https://learn.adafruit.com/circuitpython-essentials/circuitpython-pwm)
 
 ## LCD
 ### Description
