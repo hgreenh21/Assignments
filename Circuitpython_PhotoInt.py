@@ -30,5 +30,5 @@ while True:
 
     if remaining <= 0:
         print("# of interrupts:", (value))
-        max = time.time() + 4
-        value = 0
+        max = time.time() + 4 # stops at 4 seconds
+        value = 0 # resets counter
