@@ -18,28 +18,29 @@ button.pull = Pull.UP
 button_state = None
 last_state = None
 value = 0
-lcd.print("  CircuitPython        LCD ")
+lcd.print("  CircuitPython        LCD ") # opening screen 
 
 time.sleep(2)
-lcd.clear()
+lcd.clear() # clears screen
 
 
 lcd.set_cursor_pos(0, 0)
-lcd.print("ButtonPresses:")
+lcd.print("ButtonPresses:") # prints this
 
 # Make the cursor visible as a line.
 lcd.set_cursor_mode(CursorMode.LINE)
 
 while True:
-    if button.value:
+    if button.value: 
         print("not pressed")
-
+# prints that when button is not pressed
+# for some reason the button value is backwards so I just made my code accomodate that
     else:
-        value = value + 1
-        print(value)
-        button_state = None
+        value = value + 1 # when button is pressed add 1 to value
+        print(value) # prints the value in serial
+        button_state = None # sets the button state to none
         lcd.set_cursor_pos(1, 0)
-        lcd.print(str(value))
+        lcd.print(str(value)) # prints the bariable value
         time.sleep(0.2)
 
 # if button is high and last_state = low
